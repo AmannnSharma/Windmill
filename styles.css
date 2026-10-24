@@ -1,0 +1,15 @@
+body{
+background-color: black;
+color: white;
+}
+img{
+margin-top: -250px;
+margin-left: 657px;
+width: 580px;}
+img:hover{
+width: 300px;
+margin-left: 800px;
+}
+h2, h3{
+margin-left: 10px;
+}
